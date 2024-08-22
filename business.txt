@@ -1,5 +1,0 @@
-business class
-economy class
-first class
-second class
-third class
